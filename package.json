@@ -1,5 +1,6 @@
 {
     "name": "fcc-mongo-mongoose-challenges",
+    "author": "Alexandro Christian Wijaya",
     "version": "0.0.1",
     "description": "A boilerplate project",
     "main": "server.js",
@@ -9,11 +10,13 @@
     "dependencies": {
         "body-parser": "^1.15.2",
         "dotenv": "^8.2.0",
-        "express": "^4.12.4"
+        "express": "^4.12.4",
+        "mongodb": "^3.0.10",
+        "mongoose": "^5.1.6"
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/freeCodeCamp/boilerplate-mongomongoose.git"
+        "url": "https://github.com/alexandrocw/boilerplate-mongomongoose.git"
     },
     "keywords": [
         "node",
